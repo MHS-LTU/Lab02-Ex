@@ -1,1 +1,15 @@
+Ex1:
+- If no name is given, a random id will be generated, which could be used for removal as well
 
+Ex2:
+- amazon.com has multiple addresses, which is expected to be able to route traffic to different servers
+
+Ex3:
+- docker run --rm -it -p 80:3000 fortune-cookie
+- With http://localhost, we can access the Hello World! page from the default 80 port to the exposed 3000 port
+
+Ex4:
+- Done by 'Date() + ": " + message' code
+
+Ex5:
+- Done; /etc/localtime is a binary file on this computer
